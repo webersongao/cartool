@@ -3,7 +3,9 @@ cartool
 
 Export images from OS X / iOS .car CoreUI archives. Very rough code, probably tons wrong with it, but still useful.
 
-下载 cartool 到本地
+1、首先解压ipa包，得到.car资源包
+
+2、下载 cartool 到本地
 运行可知需要传入一个文件路径和解压后的文件输出路径；
 选择Edit Scheme
 <p align="center" >
